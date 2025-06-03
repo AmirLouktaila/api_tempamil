@@ -1,4 +1,4 @@
-#من اجل تشغيل api يمكنك تثبيت 
+#من اجل تشغيل api في Vps يمكنك تثبيت 
 ```
 apt install postfix mailutils -y
 ```
