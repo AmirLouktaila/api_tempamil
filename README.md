@@ -6,4 +6,4 @@ apt install postfix mailutils -y
 ```
 apt install Exim
 ```
-وبعد تهديل اعدادات واختيار domain واضافتته غي كود
+وبعد تعديل اعدادات واختيار domain اضفه الى كود
